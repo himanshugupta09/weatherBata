@@ -1,6 +1,6 @@
 # Weather App using ReactJS
 
-![Weather App Screenshot](screenshots/screenshot.png)
+![Weather App Screenshot](scrrenshots/ss.png)
 
 ## Overview
 
