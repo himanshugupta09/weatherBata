@@ -14,7 +14,7 @@ This is a simple weather app built using ReactJS that allows users to check the 
 
 ## Demo
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://mausamjanoo.netlify.app)
 
 ## Installation
 
